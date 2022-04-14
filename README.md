@@ -7,9 +7,9 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
+- can be found on [Telegram](https://telegram.dog/TGORGXBOT)
 
-🙄 [@useTGxBot](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+🙄 [@TGORGXBOT](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## Frequently Asked Questions
@@ -29,7 +29,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://GitHub.com/SpEcHiDe/MyTelegramOrgRoBot.git
+git clone https://GitHub.com/infotechIT/MyTelegramOrgRoBot.git
 ```
 
 - change the directory.
@@ -68,10 +68,10 @@ python -m bot
 
 ## learning
 
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/infotechIT/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)
+[AGPLv3](https://github.com/infotechIT/MyTelegramOrgRoBot/tree/master/LICENSE)
 
 ## credits
 
