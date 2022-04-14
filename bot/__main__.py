@@ -86,7 +86,7 @@ else:
 
 print(
     """
-Bot Started: Join @SpEcHlDe (https://tx.me/SpEcHlDe)
+Bot Started: Join @InfoTech(https://t.me/infotechIT)
     """
 )
 
