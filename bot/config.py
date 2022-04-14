@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+ #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Copyright (c) Shrimadhav U K
 #
@@ -25,7 +25,7 @@ load_dotenv("config.env")
 
 
 class Config:
-    WEBHOOK = bool(os.environ.get("WEBHOOK", False))
+    WEBHOOK = 
     # get a token from @BotFather
     TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", None)
     # required for running on Heroku
